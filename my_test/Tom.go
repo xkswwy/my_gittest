@@ -5,4 +5,5 @@ type Tom struct {
 	age   int
 	score int
 	food  string
+	money float32
 }
